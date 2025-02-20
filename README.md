@@ -1,6 +1,6 @@
 # Data Analysis & Visualization Projects
 
-## 1. Car Sales Data Analysis & Visualization (January 2025)
+## 1. Car Sales Data Analysis & Visualization (January 2024)
 
 ### Overview
 Analyzed and visualized car sales data to uncover trends, pricing patterns, and regional distribution. The project involved cleaning and preprocessing the dataset, handling missing values, and creating insightful visualizations for better decision-making.
