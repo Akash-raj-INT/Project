@@ -1,28 +1,19 @@
-# Data Analysis & Visualization Projects
+#📊 Data Analysis & Visualization Projects
+☕ 2. Coffee Chain Sales Dashboard
+📌 Overview
+Designed and developed an interactive dashboard using the Coffee Chain dataset to visualize sales and profit trends across different states. Implemented dynamic charts and graphs in Tableau to provide clear insights into regional performance and profitability.
 
-## 1. Car Sales Data Analysis & Visualization (January 2024)
+Enabled filtering and drill-down capabilities for a more detailed analysis of sales patterns, helping identify high-performing locations and areas for improvement. This project enhanced data-driven decision-making by presenting key business insights in a visually compelling format.
 
-### Overview
-Analyzed and visualized car sales data to uncover trends, pricing patterns, and regional distribution. The project involved cleaning and preprocessing the dataset, handling missing values, and creating insightful visualizations for better decision-making.
-
----
-
-### Features
-- **Data Cleaning:** Addressed missing values, removed duplicates, and corrected data types using Pandas and NumPy.
-- **Data Analysis:** Explored sales trends, pricing patterns, and regional distribution across car models.
-- **Data Visualization:** Developed insightful visualizations using Matplotlib and Seaborn.
-
----
-
-### Tools and Skills
-- **Tools Used:** Python, Pandas, NumPy, Matplotlib, Seaborn
-- **Skills Applied:** Data Cleaning, Data Analysis, Data Visualization
-
----
-
-### Visualizations
-1. **Sales Trends** - Line charts showing sales over time for different car models.
-2. **Regional Distribution** - Heatmaps for sales density across regions.
-3. **Pricing Patterns** - Scatterplots visualizing pricing impact on sales.
-
----
+🔥 Features
+📊 Interactive Dashboard: Created a visually rich and dynamic Tableau dashboard.
+📈 Sales & Profit Trends: Visualized performance across different states.
+🎯 Filtering & Drill-Down: Enabled detailed exploration of sales patterns.
+🌍 Regional Insights: Identified high-performing locations and growth opportunities.
+🛠 Tools and Skills
+🚀 Tools Used: Tableau, Filters, Data Modeling
+🎯 Skills Applied: Data Visualization, Dashboard Design, Business Intelligence
+📊 Visualizations
+📈 Sales & Profit Trends - Line and bar charts to track growth.
+🌎 Regional Performance - Maps showing state-wise sales distribution.
+🔍 Drill-Down Analysis - Interactive filters for in-depth exploration.
