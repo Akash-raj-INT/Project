@@ -1,6 +1,6 @@
 # 📊 Data Analysis & Visualization Projects  
 
-## ☕ 2. Coffee Chain Sales Dashboard  
+## ☕. Coffee Chain Sales Dashboard  
 
 ### 📌 Overview  
 Designed and developed an interactive dashboard using the **Coffee Chain dataset** to visualize sales and profit trends across different states. Implemented dynamic charts and graphs in **Tableau** to provide clear insights into regional performance and profitability.  
