@@ -1,6 +1,8 @@
 # 📊 Data Analysis & Visualization Projects  
 
-## ☕. Coffee Chain Sales Dashboard  
+## ☕ Coffee Chain Sales Dashboard  
+
+![Project Screenshot](https://github.com/Akash-raj-INT/Project/blob/main/Project%20Pic.png)  
 
 ### 📌 Overview  
 Designed and developed an interactive dashboard using the **Coffee Chain dataset** to visualize sales and profit trends across different states. Implemented dynamic charts and graphs in **Tableau** to provide clear insights into regional performance and profitability.  
