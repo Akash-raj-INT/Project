@@ -1,3 +1,4 @@
+
 # 📊 Data Analysis & Visualization Projects  
 
 ## 🚗 1. Car Sales Data Analysis & Visualization (January 2024)  
@@ -27,3 +28,5 @@ Analyzed and visualized car sales data to uncover trends, pricing patterns, and 
 
 ---
 
+![Screenshot 2025-05-12 171148](https://github.com/user-attachments/assets/a63c764b-d72f-4c1f-8231-c4e8eb4fee9c)
+![Screenshot 2025-05-12 171134](https://github.com/user-attachments/assets/6abcdc3d-0aa1-4387-b8ad-a9d3bda8882d)
